@@ -1,22 +1,12 @@
-*BLOCKCHAIN*
 Smart contract
+-They are a set of instructions executed in a decentralized way without the need of centralized/3rd party intermediary.
 
-They are a set of instructions executed in a decentralized way without the need of centralized/3rd party intermediary.
-
-Bitcoin has incomplete smart contract & developer did it intentionally. Bitcoin developer used Bitcoin as a store of value.
-
-Ethereum developer used Ethereum as both store value & utility to facilitate the decentralized agreement.
+-Bitcoin has incomplete smart contract & developer did it intentionally. Bitcoin developer used Bitcoin as a store of value.
+-Ethereum developer used Ethereum as both store value & utility to facilitate the decentralized agreement.
 
 Blockchains are intentionally walled off. They cannot interact with outside world, also known as Oracle problem.
 
-Blockchain Oracles
-
-Any device that interacts with off-chain world to provide external data to smart contracts.
-
-Chainlink
-
+Blockchain Oracles - Any device that interacts with off-chain world to provide external data to smart contracts.
 Decentralized Oracle network.
 
-DApp
-
-Decentralized App / Decentralized Protocol / Smart contract
+DApp = Decentralized App / Decentralized Protocol / Combination of Smart contract
