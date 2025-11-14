@@ -10,3 +10,7 @@ Blockchain Oracles - Any device that interacts with off-chain world to provide e
 Decentralized Oracle network.
 
 DApp = Decentralized App / Decentralized Protocol / Combination of Smart contract
+
+Hashing = A unique fixed length string meant to identify a piece of data. They are created by placing said data into a "hash function".
+
+Genesis Block = The first Block in a Blockchain.
